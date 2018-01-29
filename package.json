@@ -1,0 +1,26 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "file upload",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lzqGiser/file-upload.git"
+  },
+  "keywords": [
+    "upload",
+    "form"
+  ],
+  "author": "lzq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lzqGiser/file-upload/issues"
+  },
+  "homepage": "https://github.com/lzqGiser/file-upload#readme"
+}
