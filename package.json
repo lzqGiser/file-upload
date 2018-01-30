@@ -4,10 +4,10 @@
   "description": "file upload",
   "main": "index.js",
   "directories": {
-    "lib": "lib"
+    "lib": "lib/index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node lib/index.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/lzqGiser/file-upload/issues"
   },
-  "homepage": "https://github.com/lzqGiser/file-upload#readme"
+  "homepage": "https://github.com/lzqGiser/file-upload#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
