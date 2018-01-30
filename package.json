@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/lzqGiser/file-upload#readme",
   "dependencies": {
+    "gm": "^1.23.1",
+    "memory-fs": "^0.4.1",
     "request": "^2.83.0"
   }
 }
