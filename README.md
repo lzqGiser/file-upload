@@ -2,6 +2,6 @@
 
 > a file upload tool
 
-> node > 7.x
+> node > 8.x
 
 > you can use tht tool for uploading file;
