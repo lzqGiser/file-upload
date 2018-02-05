@@ -9,7 +9,7 @@
   "scripts": {
     "test": "node lib/index.js",
     "test2": "node test/testmap.js",
-    "test3": "node test/main.js"
+    "test3": "node test/testlib.js"
   },
   "repository": {
     "type": "git",
