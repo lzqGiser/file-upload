@@ -11,9 +11,6 @@ let wokers = [];  // 存放工作进程对象
 
 // child_process.fork('./lib/main.js');
 
-
-
-
 let failMaps = [];
 
 // 每次订阅一个value，然后存储到map

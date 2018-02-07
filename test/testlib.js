@@ -3,7 +3,7 @@
  */
 
 const reqMain = require('../lib/main.js');
-const newTest2 = require('../newTest2/master');
+const newTest2 = require('./master');
 
 const path = require('path');
 const child_process = require('child_process');
