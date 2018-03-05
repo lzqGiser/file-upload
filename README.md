@@ -33,7 +33,7 @@ assign the target server by the property of uploadURL;
 
 ###### multiple Processes
 
->
+> support multiple processess to upload the files
 
 ###### number of resending
 
