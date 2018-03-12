@@ -37,7 +37,7 @@ assign the target server by the property of uploadURL;
 
 ###### number of resending
 
->
+> support for customing the number of resending;
 
 ###### customized request
 
